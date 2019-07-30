@@ -13,7 +13,7 @@ env.config();
 
 // Import routes
 const authRoute = require(appRoot + '/routes/auth.js');
-const webRoute = require(appRoot + '/routes/web.js');
+const webRoute = require(appRoot + '/routes/blog.js');
 
 
 // Middlewares

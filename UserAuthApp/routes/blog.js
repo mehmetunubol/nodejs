@@ -1,18 +1,11 @@
 const router = require('express').Router();
 const logger = require(appRoot  + '/logger');
 
-const operate = require(appRoot + '/db/operations')
+const blogOps = require(appRoot + '/db/blogOperations')
 
 router.get('/', (req, res) => {
 	res.send('User Authentication Service');
 });
-
-router.post('/addUser', async function (req, res) {
-
-	res.send('User Authentication Service');
-});
-
-
 
 router.post('/addBlog', (req, res) => {
 	const userId = 1;
@@ -34,7 +27,7 @@ router.post('/addBlog', (req, res) => {
 		blog		: blog,
 		blogTags	: tags
 	}
-	operate.createBlogPost(blogData).then(savedBlog => {
+	blogOps.createBlogPost(blogData).then(savedBlog => {
 		logger.info("\nNew Blog is created. -> " + JSON.stringify(savedBlog));
 		res.json(savedBlog);
 	}).catch(error => {
