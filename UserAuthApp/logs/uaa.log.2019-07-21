@@ -1,0 +1,67 @@
+2019-07-21 00:00:40 info [app.js]: Server is running on 3000
+2019-07-21 00:00:53 info [app.js]: Server is running on 3000
+2019-07-21 00:01:19 info [app.js]: Server is running on 3000
+2019-07-21 00:01:19 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:03:04 info [app.js]: 
+User is created. -> {"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","updatedAt":"2019-07-20T21:03:04.190Z","createdAt":"2019-07-20T21:03:04.190Z"}
+2019-07-21 00:03:32 info [app.js]: Server is running on 3000
+2019-07-21 00:03:33 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:03:38 error [app.js]: Email [m123@mail.com] already exists.
+2019-07-21 00:10:16 info [app.js]: Server is running on 3000
+2019-07-21 00:10:16 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:14:17 info [app.js]: Server is running on 3000
+2019-07-21 00:14:17 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:14:54 info [app.js]: Server is running on 3000
+2019-07-21 00:14:54 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:20:29 info [app.js]: Server is running on 3000
+2019-07-21 00:20:30 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:20:32 info [app.js]: Server is running on 3000
+2019-07-21 00:20:32 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:20:37 error [app.js]: User with id = [1] doesn't exist.
+2019-07-21 00:26:11 info [app.js]: Server is running on 3000
+2019-07-21 00:26:11 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:26:16 error [app.js]: User with id = [1] doesn't exist.
+2019-07-21 00:26:36 info [app.js]: Server is running on 3000
+2019-07-21 00:26:37 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:29:28 info [app.js]: Server is running on 3000
+2019-07-21 00:29:28 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:29:31 error [app.js]: User with id = [1] doesn't exist.
+2019-07-21 00:31:12 info [app.js]: Server is running on 3000
+2019-07-21 00:31:12 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:31:15 error [app.js]: User with id = [1] doesn't exist.
+2019-07-21 00:32:57 info [app.js]: Server is running on 3000
+2019-07-21 00:32:57 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:33:00 error [app.js]: User with id = [1] doesn't exist.
+2019-07-21 00:33:25 info [app.js]: Server is running on 3000
+2019-07-21 00:33:25 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:33:59 info [app.js]: Server is running on 3000
+2019-07-21 00:34:00 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:34:04 error [app.js]: User with id = [1] doesn't exist.
+2019-07-21 00:35:35 info [app.js]: Server is running on 3000
+2019-07-21 00:35:35 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:36:27 info [app.js]: Server is running on 3000
+2019-07-21 00:36:27 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:36:30 error [app.js]: User with id = [1] doesn't exist.
+2019-07-21 00:44:11 info [app.js]: Server is running on 3000
+2019-07-21 00:44:11 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:44:17 info [app.js]: 
+New Blog is created. -> {"id":8,"text":null,"createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","userId":null,"user":null,"tags":[{"id":1,"name":"blogTag1","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blogId":8,"tagId":1}},{"id":2,"name":"blogTag2","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blogId":8,"tagId":2}},{"id":3,"name":"blogTag3","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blogId":8,"tagId":3}}]}
+2019-07-21 00:53:15 info [app.js]: Server is running on 3000
+2019-07-21 00:53:15 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:55:53 info [app.js]: Server is running on 3000
+2019-07-21 00:55:53 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:55:57 info [app.js]: 
+New Blog is created. -> {"id":9,"text":null,"createdAt":"2019-07-20T21:55:56.000Z","updatedAt":"2019-07-20T21:55:56.000Z","userId":1,"user":{"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","createdAt":"2019-07-20T21:03:04.000Z","updatedAt":"2019-07-20T21:03:04.000Z"},"tags":[{"id":1,"name":"blogTag1","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:55:56.000Z","updatedAt":"2019-07-20T21:55:56.000Z","blogId":9,"tagId":1}},{"id":2,"name":"blogTag2","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:55:56.000Z","updatedAt":"2019-07-20T21:55:56.000Z","blogId":9,"tagId":2}},{"id":3,"name":"blogTag3","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:55:56.000Z","updatedAt":"2019-07-20T21:55:56.000Z","blogId":9,"tagId":3}}]}
+2019-07-21 00:57:33 info [app.js]: Server is running on 3000
+2019-07-21 00:57:34 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 00:57:36 info [app.js]: 
+New Blog is created. -> {"id":10,"text":"blogtext","createdAt":"2019-07-20T21:57:35.000Z","updatedAt":"2019-07-20T21:57:35.000Z","userId":1,"user":{"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","createdAt":"2019-07-20T21:03:04.000Z","updatedAt":"2019-07-20T21:03:04.000Z"},"tags":[{"id":1,"name":"blogTag1","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:57:36.000Z","updatedAt":"2019-07-20T21:57:36.000Z","blogId":10,"tagId":1}},{"id":2,"name":"blogTag2","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:57:36.000Z","updatedAt":"2019-07-20T21:57:36.000Z","blogId":10,"tagId":2}},{"id":3,"name":"blogTag3","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T21:57:36.000Z","updatedAt":"2019-07-20T21:57:36.000Z","blogId":10,"tagId":3}}]}
+2019-07-21 01:00:18 info [app.js]: Server is running on 3000
+2019-07-21 01:00:18 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 01:00:35 info [app.js]: 
+New Blog is created. -> {"id":11,"text":"blogtext","createdAt":"2019-07-20T22:00:35.000Z","updatedAt":"2019-07-20T22:00:35.000Z","userId":1,"user":{"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","createdAt":"2019-07-20T21:03:04.000Z","updatedAt":"2019-07-20T21:03:04.000Z"},"tags":[{"id":1,"name":"blogTag1","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T22:00:35.000Z","updatedAt":"2019-07-20T22:00:35.000Z","blogId":11,"tagId":1}},{"id":2,"name":"blogTag2","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T22:00:35.000Z","updatedAt":"2019-07-20T22:00:35.000Z","blogId":11,"tagId":2}},{"id":3,"name":"blogTag3","createdAt":"2019-07-20T21:44:17.000Z","updatedAt":"2019-07-20T21:44:17.000Z","blog_tag":{"createdAt":"2019-07-20T22:00:35.000Z","updatedAt":"2019-07-20T22:00:35.000Z","blogId":11,"tagId":3}}]}
+2019-07-21 22:34:34 info [app.js]: Server is running on 3000
+2019-07-21 22:34:50 info [app.js]: Server is running on 3000
+2019-07-21 22:34:50 info [app.js]: Database & tables created in sequelize.js
+2019-07-21 22:37:09 info [app.js]: 
+User is created. -> {"id":3,"name":"ege","email":"ege@mail.com","password":"123456123","updatedAt":"2019-07-21T19:37:09.105Z","createdAt":"2019-07-21T19:37:09.105Z"}

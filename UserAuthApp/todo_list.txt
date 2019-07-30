@@ -1,0 +1,2 @@
+- Fill all operations in log
+- Test basic functionalities

@@ -1,0 +1,197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"min",
+				"minBreak"
+			],
+			[
+				"wor",
+				"workingTime"
+			],
+			[
+				"tota",
+				"totalTime"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mehmet.unubol/Documents/notes/general_notes.txt",
+		"/C/Users/mehmet.unubol/Documents/deniz_ubuntu.txt",
+		"/C/workspace/SYS-Z332-I3.1.1-P44.0_2_264151/SW/0500_Build/FP/modules/_src_mods/stubs/CtCdEDRPiDriving_Implementation/src_lib/CpCdEDRPiDriving.c",
+		"/C/Users/mehmet.unubol/Documents/ZFAS/Onboarding_Notes.txt",
+		"/C/Users/mehmet.unubol/Documents/ZFAS/EDR_Handover_Notes.txt",
+		"/C/Users/mehmet.unubol/Documents/ZFAS/task_scheduling_tool_info.txt",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/Tracing_MemLayout.h",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/CtApDSCHandler_SSH_SetDiag.c",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/DSCHandler_SSH_SetDiag.h",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/Mw_SensorSystemHost.h",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/Log_MemLayout.h",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/Mw_SensorSystemHost_TL_DevSig_enable.c",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/Rnbl_CpCdSensHostMiddleware.c",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/Rnbl_CpCdSensHostMiddleware.h",
+		"/C/workspace/zFAS/0200_Platform/0220_SWCs/CpCdSensHostMiddleware/10_GenData/Rte_MemLayout.h",
+		"/C/Users/mehmet.unubol/Documents/ZFAS/zFAS Tools Installation.txt",
+		"/C/workspace/zFAS_notes.txt",
+		"/C/Users/mehmet.unubol/Documents/ZFAS/Recorder_Handover_Notes.txt",
+		"/C/Users/mehmet.unubol/Documents/ZFAS/EDR-Violeta/For Handover/Debug_Mode/Debug_Mode.h",
+		"/C/workspace/zFAS/checkout.bat",
+		"/C/compiler/Linaro/gcc-linaro-arm-linux-gnueabihf-4.8-2014.04/arm-linux-gnueabihf/libc/usr/include/linux/mmc/ioctl.h"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

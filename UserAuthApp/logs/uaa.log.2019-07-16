@@ -1,0 +1,267 @@
+2019-07-16 10:29:10 info [app.js]: Server is running on 3000
+2019-07-16 10:29:46 info [app.js]: Server is running on 3000
+2019-07-16 10:30:47 info [app.js]: Server is running on 3000
+2019-07-16 10:34:24 info [app.js]: Server is running on 3000
+2019-07-16 10:38:02 info [app.js]: Server is running on 3000
+2019-07-16 10:38:03 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 10:38:03 info [app.js]: Server is running on 3000
+2019-07-16 10:38:04 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 10:38:53 info [app.js]: Server is running on 3000
+2019-07-16 10:38:53 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 12:04:26 info [app.js]: Server is running on 3000
+2019-07-16 12:04:50 info [app.js]: Server is running on 3000
+2019-07-16 12:05:42 info [app.js]: Server is running on 3000
+2019-07-16 12:05:49 info [app.js]: Server is running on 3000
+2019-07-16 12:05:58 info [app.js]: Server is running on 3000
+2019-07-16 13:54:57 info [app.js]: Server is running on 3000
+2019-07-16 13:54:58 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 13:56:18 info [app.js]: Server is running on 3000
+2019-07-16 13:56:18 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 13:56:22 info [app.js]: Server is running on 3000
+2019-07-16 13:56:22 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 13:56:42 info [app.js]: Server is running on 3000
+2019-07-16 13:56:42 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 13:57:04 info [app.js]: Server is running on 3000
+2019-07-16 13:57:05 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 13:58:10 info [app.js]: Server is running on 3000
+2019-07-16 13:58:10 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 13:58:49 info [app.js]: Server is running on 3000
+2019-07-16 13:58:49 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 13:59:16 info [app.js]: Server is running on 3000
+2019-07-16 13:59:16 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:00:35 info [app.js]: Server is running on 3000
+2019-07-16 14:00:35 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:01:17 info [app.js]: Server is running on 3000
+2019-07-16 14:01:18 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:01:20 error [app.js]: undefined
+2019-07-16 14:03:40 info [app.js]: Server is running on 3000
+2019-07-16 14:03:40 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:03:43 error [app.js]: undefined
+2019-07-16 14:04:07 info [app.js]: Server is running on 3000
+2019-07-16 14:04:07 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:04:09 error [app.js]: undefined
+2019-07-16 14:04:25 info [app.js]: Server is running on 3000
+2019-07-16 14:04:25 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:04:27 error [app.js]: undefined
+2019-07-16 14:04:38 info [app.js]: Server is running on 3000
+2019-07-16 14:04:38 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:04:41 error [app.js]: undefined
+2019-07-16 14:05:18 info [app.js]: Server is running on 3000
+2019-07-16 14:05:18 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:05:23 error [app.js]: undefined
+2019-07-16 14:06:19 info [app.js]: Server is running on 3000
+2019-07-16 14:06:19 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:06:42 info [app.js]: Server is running on 3000
+2019-07-16 14:06:42 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:07:45 info [app.js]: Server is running on 3000
+2019-07-16 14:07:46 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:07:53 info [app.js]: Server is running on 3000
+2019-07-16 14:07:54 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:19:57 info [app.js]: Server is running on 3000
+2019-07-16 14:19:57 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:20:32 info [app.js]: Server is running on 3000
+2019-07-16 14:20:32 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:21:34 info [app.js]: Server is running on 3000
+2019-07-16 14:21:35 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:21:37 info [app.js]: Server is running on 3000
+2019-07-16 14:21:37 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:21:39 info [app.js]: Server is running on 3000
+2019-07-16 14:21:39 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:21:42 info [app.js]: Server is running on 3000
+2019-07-16 14:21:42 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:24:38 info [app.js]: Server is running on 3000
+2019-07-16 14:24:39 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:24:40 info [app.js]: Server is running on 3000
+2019-07-16 14:24:40 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:25:03 info [app.js]: Server is running on 3000
+2019-07-16 14:25:04 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:26:56 info [app.js]: Server is running on 3000
+2019-07-16 14:26:56 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:27:10 info [app.js]: Server is running on 3000
+2019-07-16 14:27:10 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:27:46 info [app.js]: Server is running on 3000
+2019-07-16 14:27:46 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:28:05 info [app.js]: Server is running on 3000
+2019-07-16 14:28:05 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:28:57 info [app.js]: Server is running on 3000
+2019-07-16 14:28:57 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:29:01 info [app.js]: Server is running on 3000
+2019-07-16 14:29:01 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:29:10 info [app.js]: Server is running on 3000
+2019-07-16 14:29:10 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:29:54 info [app.js]: Server is running on 3000
+2019-07-16 14:29:54 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:31:24 info [app.js]: Server is running on 3000
+2019-07-16 14:31:24 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:31:45 info [app.js]: Server is running on 3000
+2019-07-16 14:31:45 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:37:14 info [app.js]: Server is running on 3000
+2019-07-16 14:37:14 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:38:46 info [app.js]: Server is running on 3000
+2019-07-16 14:38:46 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:41:14 info [app.js]: Server is running on 3000
+2019-07-16 14:41:14 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:41:15 info [app.js]: Server is running on 3000
+2019-07-16 14:41:15 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:41:27 info [app.js]: Server is running on 3000
+2019-07-16 14:41:27 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:43:25 info [app.js]: Server is running on 3000
+2019-07-16 14:43:26 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:49:09 info [app.js]: Server is running on 3000
+2019-07-16 14:49:09 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:49:25 info [app.js]: Server is running on 3000
+2019-07-16 14:49:25 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:50:16 info [app.js]: Server is running on 3000
+2019-07-16 14:50:16 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:50:22 error [app.js]: User cannot be registered: SequelizeUniqueConstraintError: Validation error
+2019-07-16 14:53:07 info [app.js]: Server is running on 3000
+2019-07-16 14:53:07 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:54:49 info [app.js]: Server is running on 3000
+2019-07-16 14:54:49 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:55:25 info [app.js]: Server is running on 3000
+2019-07-16 14:55:26 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:57:37 info [app.js]: Server is running on 3000
+2019-07-16 14:57:37 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:58:09 info [app.js]: Server is running on 3000
+2019-07-16 14:58:09 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:58:33 info [app.js]: Server is running on 3000
+2019-07-16 14:58:34 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 14:59:54 info [app.js]: Server is running on 3000
+2019-07-16 14:59:54 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:00:05 error [app.js]: User cannot be registered: SequelizeValidationError: Validation error: Validation isEmail on email failed
+2019-07-16 15:00:22 error [app.js]: User cannot be registered: SequelizeUniqueConstraintError: Validation error
+2019-07-16 15:00:25 error [app.js]: User cannot be registered: SequelizeUniqueConstraintError: Validation error
+2019-07-16 15:00:42 info [app.js]: Server is running on 3000
+2019-07-16 15:00:43 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:00:48 info [app.js]: Server is running on 3000
+2019-07-16 15:00:48 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:04:34 info [app.js]: Server is running on 3000
+2019-07-16 15:04:35 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:04:49 info [app.js]: Server is running on 3000
+2019-07-16 15:04:49 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:05:20 info [app.js]: Server is running on 3000
+2019-07-16 15:05:20 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:05:26 error [app.js]: User cannot be registered: SequelizeUniqueConstraintError: Validation error
+2019-07-16 15:05:49 info [app.js]: Server is running on 3000
+2019-07-16 15:05:50 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:05:54 error [app.js]: User cannot be registered: SequelizeUniqueConstraintError: Validation error
+2019-07-16 15:09:34 info [app.js]: Server is running on 3000
+2019-07-16 15:09:34 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:10:15 info [app.js]: Server is running on 3000
+2019-07-16 15:10:15 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:22:59 info [app.js]: Server is running on 3000
+2019-07-16 15:22:59 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:26:19 info [app.js]: Server is running on 3000
+2019-07-16 15:26:20 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:26:42 info [app.js]: Server is running on 3000
+2019-07-16 15:26:43 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:26:47 info [app.js]: Server is running on 3000
+2019-07-16 15:26:47 info [app.js]: Server is running on 3000
+2019-07-16 15:26:48 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:26:49 error [app.js]: User cannot be registered: TypeError: Catch statement predicate: expecting an object but got [object Undefined]
+2019-07-16 15:27:23 error [app.js]: User cannot be registered: TypeError: Catch statement predicate: expecting an object but got [object Undefined]
+2019-07-16 15:27:32 error [app.js]: User cannot be registered: TypeError: Catch statement predicate: expecting an object but got [object Undefined]
+2019-07-16 15:28:27 info [app.js]: Server is running on 3000
+2019-07-16 15:28:27 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:28:40 info [app.js]: Server is running on 3000
+2019-07-16 15:28:40 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:28:49 error [app.js]: User cannot be registered: {"name":"SequelizeUniqueConstraintError","errors":[{"message":"email must be unique","type":"unique violation","path":"email","value":"mail@mail.com","origin":"DB","instance":{"id":null,"name":"testUser","email":"mail@mail.com","password":"123456","updatedAt":"2019-07-16T12:28:49.469Z","createdAt":"2019-07-16T12:28:49.469Z"},"validatorKey":"not_unique","validatorName":null,"validatorArgs":[]}],"fields":{"email":"mail@mail.com"},"parent":{"code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry 'mail@mail.com' for key 'email'","sql":"INSERT INTO `users` (`id`,`name`,`email`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?);"},"original":{"code":"ER_DUP_ENTRY","errno":1062,"sqlState":"23000","sqlMessage":"Duplicate entry 'mail@mail.com' for key 'email'","sql":"INSERT INTO `users` (`id`,`name`,`email`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?);"},"sql":"INSERT INTO `users` (`id`,`name`,`email`,`password`,`createdAt`,`updatedAt`) VALUES (DEFAULT,?,?,?,?,?);"}
+2019-07-16 15:32:08 info [app.js]: Server is running on 3000
+2019-07-16 15:32:08 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:33:17 info [app.js]: Server is running on 3000
+2019-07-16 15:33:17 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:33:21 error [app.js]: User is already registered email[mail@mail.com] 
+2019-07-16 15:35:54 info [app.js]: Server is running on 3000
+2019-07-16 15:35:55 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:36:01 error [app.js]: Registration  Failed Validation isEmail on email failed 
+2019-07-16 15:36:44 info [app.js]: Server is running on 3000
+2019-07-16 15:36:44 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:36:45 error [app.js]: Registration Failed -> Validation isEmail on email failed 
+2019-07-16 15:37:13 info [app.js]: Server is running on 3000
+2019-07-16 15:37:13 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:39:02 info [app.js]: Server is running on 3000
+2019-07-16 15:39:02 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:39:04 error [app.js]: Registration Failed -> Validation isEmail on email failed 
+2019-07-16 15:39:04 info [app.js]: 
+User is created. -> false
+2019-07-16 15:40:12 info [app.js]: Server is running on 3000
+2019-07-16 15:40:12 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:40:17 error [app.js]: Registration Failed -> Validation isEmail on email failed 
+2019-07-16 15:40:28 info [app.js]: 
+User is created. -> {"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","updatedAt":"2019-07-16T12:40:28.294Z","createdAt":"2019-07-16T12:40:28.294Z"}
+2019-07-16 15:40:36 error [app.js]: Email[m123@mail.com] already exists.
+2019-07-16 15:41:03 info [app.js]: Server is running on 3000
+2019-07-16 15:41:03 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:41:04 info [app.js]: Server is running on 3000
+2019-07-16 15:41:04 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:42:01 info [app.js]: Server is running on 3000
+2019-07-16 15:42:01 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:42:48 info [app.js]: Server is running on 3000
+2019-07-16 15:42:48 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:42:50 info [app.js]: 
+User is created. -> {"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","updatedAt":"2019-07-16T12:42:50.303Z","createdAt":"2019-07-16T12:42:50.303Z"}
+2019-07-16 15:42:53 error [app.js]: Email[m123@mail.com] already exists.
+2019-07-16 15:44:06 info [app.js]: Server is running on 3000
+2019-07-16 15:44:06 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:44:09 info [app.js]: Server is running on 3000
+2019-07-16 15:44:09 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:44:39 info [app.js]: Server is running on 3000
+2019-07-16 15:44:39 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:44:40 info [app.js]: 
+User is created. -> {"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","updatedAt":"2019-07-16T12:44:40.738Z","createdAt":"2019-07-16T12:44:40.738Z"}
+2019-07-16 15:44:42 error [app.js]: Email[m123@mail.com] already exists.
+2019-07-16 15:45:20 info [app.js]: Server is running on 3000
+2019-07-16 15:45:20 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:45:24 error [app.js]: Registration Failed -> Validation isEmail on email failed
+2019-07-16 15:47:55 info [app.js]: Server is running on 3000
+2019-07-16 15:47:55 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:48:00 info [app.js]: Server is running on 3000
+2019-07-16 15:48:00 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:48:06 error [app.js]: [ email ] validation(isEmail) is failed, 
+2019-07-16 15:48:24 info [app.js]: Server is running on 3000
+2019-07-16 15:48:24 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:49:47 info [app.js]: 
+User is created. -> {"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","updatedAt":"2019-07-16T12:49:47.495Z","createdAt":"2019-07-16T12:49:47.495Z"}
+2019-07-16 15:52:28 info [app.js]: Server is running on 3000
+2019-07-16 15:52:28 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:53:06 info [app.js]: Server is running on 3000
+2019-07-16 15:53:06 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:53:09 info [app.js]: 
+User is created. -> {"id":1,"name":"testUser","email":"m123@mail.com","password":"123456","updatedAt":"2019-07-16T12:53:09.465Z","createdAt":"2019-07-16T12:53:09.465Z"}
+2019-07-16 15:53:12 error [app.js]: Email [m123@mail.com] already exists.
+2019-07-16 15:53:22 info [app.js]: Server is running on 3000
+2019-07-16 15:53:22 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:56:51 info [app.js]: Server is running on 3000
+2019-07-16 15:56:51 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:56:54 info [app.js]: Server is running on 3000
+2019-07-16 15:56:54 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 15:57:15 info [app.js]: Server is running on 3000
+2019-07-16 15:57:15 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:11:42 info [app.js]: Server is running on 3000
+2019-07-16 16:11:43 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:12:01 info [app.js]: Server is running on 3000
+2019-07-16 16:12:02 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:12:04 info [app.js]: Server is running on 3000
+2019-07-16 16:12:04 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:12:11 info [app.js]: Server is running on 3000
+2019-07-16 16:12:11 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:44:53 info [app.js]: Server is running on 3000
+2019-07-16 16:44:54 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:44:56 info [app.js]: Server is running on 3000
+2019-07-16 16:44:56 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:45:32 info [app.js]: Server is running on 3000
+2019-07-16 16:45:33 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:45:35 info [app.js]: Server is running on 3000
+2019-07-16 16:45:35 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:45:41 info [app.js]: Server is running on 3000
+2019-07-16 16:45:42 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:46:00 info [app.js]: Server is running on 3000
+2019-07-16 16:46:00 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:46:42 info [app.js]: Server is running on 3000
+2019-07-16 16:46:43 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:46:59 info [app.js]: Server is running on 3000
+2019-07-16 16:46:59 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:47:16 info [app.js]: Server is running on 3000
+2019-07-16 16:47:16 info [app.js]: Database & tables created in sequelize.js
+2019-07-16 16:47:19 info [app.js]: Server is running on 3000
+2019-07-16 16:47:19 info [app.js]: Database & tables created in sequelize.js
