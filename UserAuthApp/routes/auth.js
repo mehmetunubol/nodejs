@@ -1,7 +1,7 @@
 const router = require('express').Router();
 const logger = require(appRoot  + '/logger');
 
-const operate = require(appRoot + '/db/operations')
+const userOperations = require(appRoot + '/db/userOperations')
 
 /*
 Example Request Body = 
@@ -17,7 +17,7 @@ router.post('/register', (req, res) => {
 		email		: req.body.email,
 		password 	: req.body.password
 	}
-	operate.createUser(user).then(createdUser => {
+	userOperations.createUser(user).then(createdUser => {
 		logger.info("\nUser is created. -> " + JSON.stringify(createdUser));
 		res.json(createdUser);
 	}).catch(error => {
